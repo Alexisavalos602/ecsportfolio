@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	   font: Optima, sans-serif;
+	   font: Courier New, monospace
 }
 .homePage {
 	background: #C5DEF5;

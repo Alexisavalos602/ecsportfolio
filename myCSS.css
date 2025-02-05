@@ -2,6 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	   font: Optima, sans-serif;
 }
 .homePage {
 	background: ##C5D3E6;
@@ -11,6 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
+	  font: Optima, sans-serif;
 	background: ##F4DBE0;
 	text-align: center;
 	margin: 0px;
